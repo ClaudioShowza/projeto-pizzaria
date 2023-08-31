@@ -1,0 +1,19 @@
+.cards  {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.image__cards {
+    width: 120px;
+}
+.veja-menu {
+    text-decoration: none;
+    color: aliceblue;
+}
+.cards-segunda-parte {
+    padding: 50px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
